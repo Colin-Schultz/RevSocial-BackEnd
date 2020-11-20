@@ -1,4 +1,4 @@
-# RevSocial - BackEnd
+# RevSocial - Back End
 
 ## Project Description
 
