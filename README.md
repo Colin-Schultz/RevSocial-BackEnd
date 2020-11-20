@@ -15,9 +15,6 @@ retrieves multimedia using AWS S3 and consumes a RESTful web service that provid
 * Java
 * PostgreSQL
 * Hibernate
-* React/Redux
-* Jest/Enzyme
-* JavaScript/TypeScript
 * Log4j
 * JUnit
 * Agile-Scrum
