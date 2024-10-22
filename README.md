@@ -52,4 +52,4 @@ To-do list:
 * Kevin Bagnall
 * Earnest Gibbs
 * Matthew Lee
-* Colin Shultz
+* Colin Schultz
